@@ -1,7 +1,7 @@
-//<!-- to test if js file is connected  -->
+//<!-- Back End -->
 console.log('basic javascript is functioning')
 
-//<!-- to test if jquery is loaded  -->
+//<!-- Front End  -->
 $(document).ready(function(){
 if (jQuery) {
 console.log('jQuery 3.1.0 is loaded');
