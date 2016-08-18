@@ -1,22 +1,24 @@
 # _Template_
 
-#### By _Ryan Loos_
+#### By _Ewa Manek_
 
 ## Description
 
-_A template website that has confirmed functional Javascript, CSS, Bootstrap (v3.3.7), and jQuery(v3.1.0)_
+_A template website with linked Javascript, CSS, Bootstrap (v3.3.7), and jQuery(v3.1.0)_
 
 ## Setup/Installation Requirements
 
 * _Copy the repository from GitHub_
 * _Open the index.html file a browser of your choice_
-* _Open the console to confirm that javascript and jQuery are running
 
 ## GitHub link
-https://github.com/rloos289/Template
+
+https://github.com/ewajm/Template
 
 ## Licensing
 
 * MIT
 
-Copyright (c) 2016 **_Ryan Loos_**
+Copyright (c) 2016 **_Ewa Manek_**
+
+Original Template Copyright (c) 2016 **_Ryan Loos_**
